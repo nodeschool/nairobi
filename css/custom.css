@@ -8,19 +8,19 @@ body {
 /* overrides */
 
 .features-circle {
-  background-color: #983B35;
-  border: 6px solid #0C0C0C;
+  background-color: #8dc441;
+  border: 6px solid #3f7f3b;
 }
 
 .features-item:hover .features-circle {
-  background-color: #983B35;
-  border-color: #0C0C0C;
+  background-color: #3f7f3b;
+  border-color: #8dc441;
+  cursor: pointer;
 }
 
 .logo, .logo span:first-child {
   white-space: nowrap;
   font-family: Source Sans Pro;
-  text-transform : uppercase;
   color: rgba(255,255,255, 0.8);
 }
 
@@ -37,7 +37,7 @@ body {
 }
 
 .section-signup {
-  background-color: #983B35;
+  background-color: #3f7f3b;
 }
 
 .site-header .logo {
@@ -55,7 +55,7 @@ body {
 }
 
 .signupLink {
-  background-color : #D27031;
+  background-color : none;
   line-height: 35px;
   margin: 1em;
   padding: 15px 30px;
@@ -66,11 +66,12 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 1px;
+  border: 2px solid #fec007;
 }
 
 .signupLink:hover, .signupLink:active {
   color : rgb(236,234,213);
-  background-color : #983B35;
+  background-color: #fec007;
 }
 
 
@@ -91,7 +92,7 @@ header .row { z-index: 2; position: relative; }
 
 .site-header {
   background-position: bottom center;
-  background-image: url("../img/berlin-skyline.jpg");
+  background-image: url("../img/nairobi-by-mutua-matheka.jpg");
 }
 
 .subheadline {
@@ -141,6 +142,7 @@ header .row { z-index: 2; position: relative; }
 .sponsorLogo {
   max-width: 200px;
   margin-top: 1em;
+  display: inline-block;
 }
 
 .sponsoredBy {
