@@ -11,7 +11,7 @@ We are still looking for sponsors to cover some of the costs. For
 200€ sponsor stickers, which are intended to be badges for accomplished
 challenges. 
 
-We will promote your logo on the [event page](http://nodeschool.io/berlin/) and the [ticket page](https://ti.to/nodeschool-berlin/jsfest-2014)
+We will promote your logo on the [event page](http://nodeschool.io/nairobi/) and the ticket page
 as well as during the event. We are also happy if some of you employees
 help out as mentors or even join as learners.
 

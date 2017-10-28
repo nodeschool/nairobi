@@ -1,22 +1,22 @@
 # Code of Conduct
 
-All attendees, speakers, sponsors and volunteers at NodeSchool Berlin are required to agree 
+All attendees, speakers, sponsors and volunteers at NodeSchool Nairobi are required to agree 
 with the following code of conduct. Organizers will enforce this code throughout the event. 
 We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
 *tl:dr: Do not harass people. Be awesome to each other.*
 
-## Need Help? Contact Finn
+## Need Help? Contact Nandaa
 
-Contact | Finn Pauls
+Contact | Anthony Nandaa
 --- | ---
-Twitter | [@finnpauls](https://twitter.com/finnpauls)
-Email | derfinn[at]gmail.com
-Phone | +4915732650702
+Twitter | [@profnandaa](https://twitter.com/profnandaa)
+Email | prof[at]nandaa.com
+Skype | profnandaa
 
 ## The Quick Version
 
-NodeSchool Berlin is dedicated to providing a harassment-free conference experience for 
+NodeSchool Nairobi is dedicated to providing a harassment-free conference experience for 
 everyone, regardless of gender, sexual orientation, disability, physical appearance, body size,
 race, or religion. We do not tolerate harassment of participants in any form. Conference 
 participants violating these rules may be sanctioned or expelled from the event at the
