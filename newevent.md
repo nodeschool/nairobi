@@ -1,6 +1,6 @@
 # ToDo for new event
 
-- [ ] Agree on a date (check for [collisions](https://hacken.in/berlin))
+- [ ] Agree on a date
 - [ ] Create ti.to page (copy pasta)
 - [ ] Inform on GiHub
 - [ ] Update homepage
