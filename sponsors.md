@@ -1,4 +1,4 @@
-# Current sponsor
+# Current sponsors
 - Kazi+
 - Developer Circles: Nairobi, from Facebook.
 
