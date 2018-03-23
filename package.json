@@ -1,22 +1,23 @@
 {
-  "name": "nodeschool-berlin",
+  "name": "nodeschool-nairobi",
   "version": "1.0.0",
-  "description": "NodeSchool Berlin",
+  "description": "NodeSchool Nairobi",
   "main": "budget.js",
   "scripts": {
     "test": "node budget.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nodeschool/berlin"
+    "url": "https://github.com/nodeschool/nairobi"
   },
   "keywords": [
-    "nodeschool"
+    "nodeschool",
+    "nairobi"
   ],
-  "author": "Finn Pauls",
+  "author": "Anthony Nandaa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nodeschool/berlin/issues"
+    "url": "https://github.com/nodeschool/nairobi/issues"
   },
-  "homepage": "https://github.com/nodeschool/berlin"
+  "homepage": "https://github.com/nodeschool/nairobi"
 }
