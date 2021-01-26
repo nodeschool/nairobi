@@ -75,7 +75,29 @@ body {
 }
 
 
+.ticketButton {
+  background: none;
+  letter-spacing: 1px;
+  border: 2px solid #fec007;
+  color: white;
+  margin: 1em 0;
+  line-height: 35px;
+  padding: 11px 30px;
+  letter-spacing: 1px;
+  font-family: "Source Sans Pro";
+  font-size: 21px;
+  font-weight: 400;
+  vertical-align: baseline;
+  text-transform: uppercase;
+  opacity: .999;
+  border-radius: 3px;
+  transition: all 0.3s ease;
+}
 
+.ticketButton:hover, .ticketButton:active {
+  color : rgb(236,234,213);
+  background-color: #fec007;
+}
 
 /* end color overrides */
 

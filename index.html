@@ -16,15 +16,20 @@
   <div class="row">
     <!-- START: Intro -->
     <div id="header" class="twelve columns header-intro-wrap fadeUpIn">
-      <img class="nsLogo" src="img/Nodeschool-Berlin-Logo.png" alt="NodeSchool Nairobi"/>
+      <img class="nsLogo" src="img/nodeschool-nrb-logo.png" alt="NodeSchool Nairobi"/>
 
       <h1 class="logo">NodeSchool</h1>
       <h2>Nairobi Edition</h2>
       <div class="subheadline">
         <p>
-          <strong>Our next meetup is being planned for <strong>Saturday, Jan 30, 2021</strong>. Stay tuned!</strong>
+          <strong>Our next meetup will be held on Saturday, Jan 30, 2021.</strong>
         </p>
         <a class="signupLink" href="http://eepurl.com/hnFIqj" target="_blank">Subscribe Here</a>
+        <!-- Noscript content for added SEO -->
+        <noscript><a href="https://www.eventbrite.com/e/nodeschool-nairobi-meetup-1-tickets-136955683135" rel="noopener noreferrer" target="_blank"></noscript>
+        <!-- You can customize this button any way you like -->
+        <button class="ticketButton" id="eventbrite-widget-modal-trigger-136955683135" type="button">Get Free Ticket Here</button>
+        <noscript></a>Get Free Ticket on Eventbrite</noscript>
       </div>
       <div class="catch-errors-top"></div>
     </div>
@@ -99,7 +104,7 @@
     <!-- START: Copyright Notice -->
     <div class="six columns">
       <h3><a href="https://github.com/nodeschool/nairobi/blob/master/codeofconduct.md" target="_blank">Code of Conduct</a></h3><br>
-      <p class="footer-copyright">HTML, CSS, images, and design are based on a design 
+      <p class="footer-copyright">HTML, CSS, images, and design are based on a design
           <a href="http://github.com/nodeschool/berlin">forked from nodeschool.io/berlin</a> which was
         <a href="http://github.com/pikkupanda/pikkupanda.github.io">forked from pikkupanda.de</a> which was, in turn,
         <a href="https://github.com/maxogden/csvconf.com">forked from csvconf.com</a> which was, in turn,
@@ -124,5 +129,21 @@
 <!-- /END: Site Footer -->
 
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us17.list-manage.com","uuid":"97c01d5a28ff1ced83affa472","lid":"f421733955"}) })</script>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '136955683135',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-136955683135',
+        onOrderComplete: exampleCallback
+    });
+</script>
 </body>
 </html>
