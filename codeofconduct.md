@@ -37,7 +37,7 @@ they deem appropriate, including warning the offender or expulsion from the even
 
 If you are being harassed, notice that someone else is being harassed, or have any
 other concerns, please conctact an organizer or mentor. We will tell you who are 
-responsible at the beginning of the event. You can also contact Finn directly (info above).
+responsible at the beginning of the event. You can also contact Anthony directly (info above).
 
 We are happy to help participants contact venue security or local law enforcement,
 provide escorts, or otherwise assist those experiencing harassment to feel safe. 
